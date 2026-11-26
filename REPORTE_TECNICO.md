@@ -8,7 +8,7 @@
 
 Este ejemplo contiene una API Django que expone `GET /api/avisos/` como JSON y una app Android que recibe mensajes de Firebase Cloud Messaging (FCM) y construye una notificación con `NotificationCompat`. La app solicita el permiso de notificaciones en Android 13 o posterior cuando se pulsa el botón correspondiente.
 
-**Repositorio GitHub:** [pega aquí el enlace al repositorio publicado]  
+**Repositorio GitHub:** https://github.com/Danierf1717/semana13-servicios-notificaciones
 **APK o evidencia real de ejecución:** [adjunta el APK o capturas propias de la app y Logcat]
 
 ## Librerías y permisos
